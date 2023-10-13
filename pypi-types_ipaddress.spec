@@ -4,7 +4,7 @@
 #
 Name     : pypi-types_ipaddress
 Version  : 1.0.8
-Release  : 16
+Release  : 17
 URL      : https://files.pythonhosted.org/packages/f1/4e/1b814342e5586fd4da2e483150b98d86d566922debf10fc4ff815864a729/types-ipaddress-1.0.8.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f1/4e/1b814342e5586fd4da2e483150b98d86d566922debf10fc4ff815864a729/types-ipaddress-1.0.8.tar.gz
 Summary  : Typing stubs for ipaddress
